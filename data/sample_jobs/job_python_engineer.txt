@@ -1,0 +1,27 @@
+Job Title: Python Backend Engineer
+Department: Core Infrastructure
+Experience Required: 2.0 years
+Education Required: Bachelor's degree in Computer Science or related engineering field
+
+Overview:
+We are seeking an experienced Python Backend Engineer to build robust, high-performance microservices and API gateways. You will work closely with database architects and product managers to scale our services.
+
+Key Responsibilities:
+- Design and develop asynchronous REST APIs using FastAPI and Python.
+- Architect and optimize relational database schemas in PostgreSQL.
+- Implement distributed caching strategies using Redis.
+- Write unit and integration test suites to maintain >85% code coverage.
+- Collaborate on CI/CD deployment pipelines using Docker and AWS.
+
+Required Core Skills:
+- Python 3.10+
+- FastAPI or Flask
+- REST APIs
+- SQL (PostgreSQL preferred)
+- Git & GitHub workflows
+
+Preferred Skills:
+- Docker containerization
+- Redis caching
+- AWS (ECS, S3, RDS)
+- Message queues (Celery or RabbitMQ)

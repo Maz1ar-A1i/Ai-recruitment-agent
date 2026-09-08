@@ -1,0 +1,32 @@
+Alice Chen
+San Francisco, CA | alice.chen@example.com | +1 (555) 019-2834 | github.com/alice-chen
+
+PROFESSIONAL SUMMARY:
+Results-driven Junior Software Engineer with 2 years of hands-on experience building asynchronous microservices in Python using FastAPI, designing relational PostgreSQL schemas, and containerizing backend services with Docker. Proven track record of improving API response times by 32% with Redis caching.
+
+WORK EXPERIENCE:
+Associate Backend Engineer — CloudScale Labs (July 2022 - Present, 2 years)
+- Designed and maintained 12+ RESTful API endpoints in FastAPI handling over 50,000 requests daily.
+- Implemented PostgreSQL database indexing and query optimization, reducing p99 database latency from 450ms to 110ms.
+- Containerized development and staging environments using Docker and Docker Compose.
+- Maintained 90% unit test coverage using PyTest and integrated automated Git branch protection rules.
+- Integrated Redis cache-aside patterns for frequently requested inventory resources.
+
+PROJECTS:
+Multi-Tenant API Gateway (2023)
+- Built a modular API gateway with FastAPI, JWT authentication, and rate limiting using Redis token bucket.
+- Technologies: Python, FastAPI, Redis, PostgreSQL, Docker, Git.
+
+AI Document Retrieval Assistant (2024)
+- Developed a lightweight semantic search service using FAISS embeddings and FastAPI.
+- Technologies: Python, FAISS, PyTorch, REST APIs.
+
+EDUCATION:
+B.S. in Computer Science — University of California, Davis (2022)
+GPA: 3.8 / 4.0
+
+TECHNICAL SKILLS:
+- Languages: Python, SQL, Bash
+- Frameworks: FastAPI, Flask, PyTest
+- Databases & Tools: PostgreSQL, Redis, Docker, Git, Linux
+- Concepts: REST APIs, Microservices, Asyncio, Asynchronous Programming

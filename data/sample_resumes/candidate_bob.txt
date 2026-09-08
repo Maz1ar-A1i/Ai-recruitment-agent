@@ -1,0 +1,19 @@
+Bob Miller
+Austin, TX | bob.m@example.com | +1 (555) 765-4321
+
+PROFESSIONAL SUMMARY:
+Frontend-oriented developer with 2.5 years of experience building dynamic web applications with React, TypeScript, and Tailwind CSS. Basic knowledge of Python for web scraping and lightweight automation tasks.
+
+WORK EXPERIENCE:
+Frontend Web Developer — PixelCraft Studio (2022 - Present, 2.5 years)
+- Developed responsive single-page applications using React and TypeScript.
+- Integrated frontend state with third-party REST APIs.
+- Wrote basic Python scripts for parsing HTML pages and extracting product data.
+
+EDUCATION:
+B.A. in Digital Media & Web Design — Texas State University (2022)
+
+TECHNICAL SKILLS:
+- Languages: JavaScript, TypeScript, HTML5, CSS3, Python (basic)
+- Frameworks: React, Next.js, Tailwind CSS
+- Tools: Git, npm, Webpack, Figma

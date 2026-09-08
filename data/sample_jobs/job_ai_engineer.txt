@@ -1,0 +1,26 @@
+Job Title: Junior AI / LLM Applications Engineer
+Department: Applied AI
+Experience Required: 1.0 years
+Education Required: Bachelor's in CS, AI, or Mathematics
+
+Overview:
+Join our Applied AI team to design, evaluate, and deploy agentic AI workflows, tool-calling pipelines, and Retrieval-Augmented Generation (RAG) systems.
+
+Key Responsibilities:
+- Build agentic multi-step orchestration workflows connecting LLMs to business tools.
+- Implement vector search, embeddings, and semantic similarity search using FAISS or pgvector.
+- Evaluate model outputs against strict Pydantic schemas and test suites.
+- Develop backend APIs using FastAPI in Python.
+
+Required Skills:
+- Python
+- PyTorch or Scikit-Learn
+- REST APIs & FastAPI
+- Vector Databases / FAISS / Embeddings
+- Git
+
+Preferred Skills:
+- LangChain / LlamaIndex
+- Docker
+- PostgreSQL
+- Prompt Engineering & Structured Outputs

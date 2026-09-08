@@ -1,0 +1,23 @@
+Charlie Zhang
+Seattle, WA | charlie.z@example.com | +1 (555) 987-6543
+
+PROFESSIONAL SUMMARY:
+Senior Big Data Infrastructure Engineer with 6 years experience designing distributed streaming platforms, petabyte-scale data lakes, and Apache Spark batch jobs.
+
+WORK EXPERIENCE:
+Senior Data Engineer — Enterprise Cloud Systems (2020 - Present, 4 years)
+- Architected enterprise real-time streaming pipeline with Apache Spark and Apache Kafka handling 15TB of event data daily.
+- Managed distributed Hadoop clusters and tuned Scala batch ETL routines.
+- Implemented data governance and schema enforcement using Apache Avro.
+
+Data Engineer — FinTech Analytics (2018 - 2020, 2 years)
+- Built SQL warehousing models in Amazon Redshift and Snowflake.
+- Managed Airflow DAG orchestrations for overnight reporting.
+
+EDUCATION:
+M.S. in Computer Science & Engineering — University of Washington (2018)
+
+TECHNICAL SKILLS:
+- Big Data: Apache Spark, Scala, Apache Kafka, Hadoop, PySpark
+- Databases: PostgreSQL, Amazon Redshift, Snowflake, SQL
+- Cloud: AWS, Kubernetes, Terraform
