@@ -16,6 +16,7 @@ from app.schemas.evaluation import (
     ScoreBreakdown,
     InterviewQuestionItem,
     InterviewQuestionsResult,
+    InterviewQuestionResponse,
     CandidateReport,
     ValidationResult,
     EvaluateCandidateRequest,

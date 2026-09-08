@@ -9,8 +9,8 @@ class AgentStepSchema(BaseModel):
     step_number: int
     tool_name: str
     thought: Optional[str] = None
-    tool_input: dict[str, Any] = Field(default_factory=dict)
-    tool_output: dict[str, Any] = Field(default_factory=dict)
+    tool_input: Any = Field(default_factory=dict)
+    tool_output: Any = Field(default_factory=dict)
     status: str
     execution_time_ms: float
     timestamp: datetime

@@ -99,6 +99,30 @@ class BatchEvaluateRequest(BaseModel):
     candidate_ids: list[str]
 
 
+class InterviewQuestionResponse(BaseModel):
+    id: str
+    evaluation_id: Optional[str] = None
+    category: str
+    question: str
+    target_skill_or_gap: Optional[str] = None
+    rationale: Optional[str] = None
+    suggested_answer_points: list[Any] = Field(default_factory=list)
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class RecruiterDecisionNestedResponse(BaseModel):
+    id: str
+    evaluation_id: Optional[str] = None
+    decision: str
+    modified_recommendation: Optional[str] = None
+    recruiter_notes: Optional[str] = None
+    reviewer_name: str
+    decided_at: datetime
+
+    model_config = ConfigDict(from_attributes=True)
+
+
 class EvaluationResponse(BaseModel):
     id: str
     job_id: str
@@ -121,8 +145,8 @@ class EvaluationResponse(BaseModel):
     evidence_snippets: list[Any] = Field(default_factory=list)
     ai_explanation: Optional[str] = None
     created_at: datetime
-    interview_questions: list[Any] = Field(default_factory=list)
-    decisions: list[Any] = Field(default_factory=list)
+    interview_questions: list[InterviewQuestionResponse] = Field(default_factory=list)
+    decisions: list[RecruiterDecisionNestedResponse] = Field(default_factory=list)
 
     model_config = ConfigDict(from_attributes=True)
 
