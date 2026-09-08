@@ -9,6 +9,8 @@
 
 > **Portfolio Project:** Demonstrating practical engineering competencies for a **Junior AI Engineer / GenAI / LLM** role:
 > *Agentic AI Orchestration*, *Tool Calling*, *Structured Outputs (Pydantic)*, *Multi-Step Workflows*, *Evidence-Based Reasoning*, *Deterministic Scoring*, *Bias Mitigation*, *Lightweight RAG*, *REST APIs (FastAPI)*, and *Modern React Dashboard*.
+>
+> 🎬 **Demo Video:** [`Ai recruiter.mp4`](Ai%20recruiter.mp4) showcase recording included in repository.
 
 ---
 
